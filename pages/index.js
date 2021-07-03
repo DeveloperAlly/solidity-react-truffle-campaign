@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
 import "semantic-ui-css/semantic.min.css";
 import { Card, Button, Icon } from "semantic-ui-react";
 import factory from "../ethereum/factory";
