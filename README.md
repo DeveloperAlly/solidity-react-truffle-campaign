@@ -39,6 +39,7 @@ I use VS-CODE IDE on macOS (ahh the irony :P).
 Mocha is installed so you can either run the tests with truffle or using node (First run >npm install to install dependencies)
 
    > npm run test
+
    > truffle test
 
 On the to-do list:
