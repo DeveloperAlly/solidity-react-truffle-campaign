@@ -19,19 +19,19 @@ I use VS-CODE IDE on macOS (ahh the irony :P).
 
 **Installing the project**
 
-1. Clone this project to your computer >git clone https://github.com/DeveloperAlly/solidity-react-truffle-campaign.git
+1. Clone this project to your computer ```>git clone https://github.com/DeveloperAlly/solidity-react-truffle-campaign.git```
 2. Install a fresh metamask wallet (ONLY USE A DEV WALLET WITH NO REAL ASSETS IN IT FOR SECURITY) -> <https://blog.wetrust.io/how-to-install-and-use-metamask-7210720ca047>
    - Make sure you save your SEED WORDS
 3. Get some test eth for your metamask wallet (change to rinkeby network and copy your address from MM) <https://faucet.rinkeby.io/>
-4. Install Truffle globally   >npm install -g truffle
+4. Install Truffle globally  ```>npm install -g truffle```
 5. Create an Infura account and project and note your rinkeby api endpoint address -> <https://blog.infura.io/getting-started-with-infura-28e41844cc89/>
-6. Create a .env file >touch .env
+6. Create a .env file ```>touch .env```
 7. Use the .example file as a template for the .env file and fill out the metamask seed phrase and infura address details
 8. Compile the contracts using >truffle compile (not necessary - but useful to see it runs correctly)
-9. Install the node package dependencies  >npm install   (we'll need these on the front-end)
-10. Deploy the contracts   >truffle migrate --network rinkeby
+9. Install the node package dependencies  ```>npm install```   (we'll need these on the front-end)
+10. Deploy the contracts   ```>truffle migrate --network rinkeby```
 11. Take note of the contract address of the deployed CampaignFactory contract and add it to the .env file
-12. Run the front-end with >npm run dev
+12. Run the front-end with ```>npm run dev```
 13. Navigate to <http://localhost:3000/> to play with this!
 
 **Testing the project**
