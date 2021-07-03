@@ -18,11 +18,10 @@ This project has been updated from the original Stephen Grider version as follow
 
 Installing the project
 
-0. Clone this project to your computer >git clone "git address"
-1. Install a fresh metamask wallet (ONLY USE A DEV WALLET WITH NO REAL ASSETS IN IT FOR SECURITY) -> https://blog.wetrust.io/how-to-install-and-use-metamask-7210720ca047
+1. Clone this project to your computer >git clone https://github.com/DeveloperAlly/solidity-react-truffle-campaign.git
+2. Install a fresh metamask wallet (ONLY USE A DEV WALLET WITH NO REAL ASSETS IN IT FOR SECURITY) -> https://blog.wetrust.io/how-to-install-and-use-metamask-7210720ca047
    - Make sure you save your SEED WORDS
-2. Get some test eth for your metamask wallet (change to rinkeby network and copy your address from MM) https://faucet.rinkeby.io/
-3. Get some test link for your wallet & add the chainlink rinkeby LINK token (0x01BE23585060835E02B77ef475b0Cc51aA1e0709) https://rinkeby.chain.link/
+3. Get some test eth for your metamask wallet (change to rinkeby network and copy your address from MM) https://faucet.rinkeby.io/
 4. Install Truffle globally >npm install -g truffle
 5. Create an Infura account and project and note your rinkeby api endpoint address -> https://blog.infura.io/getting-started-with-infura-28e41844cc89/
 6. Create a .env file >touch .env
