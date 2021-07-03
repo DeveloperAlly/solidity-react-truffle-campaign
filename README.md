@@ -35,6 +35,7 @@ I use VS-CODE IDE on macOS (ahh the irony :P).
 13. Navigate to <http://localhost:3000/> to play with this!
 
 **Testing the project**
+
 Mocha is installed so you can either run the tests with truffle or using node (First run >npm install to install dependencies)
 
    > npm run test
