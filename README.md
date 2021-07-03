@@ -1,6 +1,6 @@
 # solidity-react-truffle-campaign
 
-Project build off Stephen Griders Udemy course: Ethereum and Solidity: The Complete Developer's Guide
+Project build off Stephen Griders Udemy course: [Ethereum and Solidity: The Complete Developer's Guide](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/)
 
 ## **Framework**
 
