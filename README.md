@@ -1,4 +1,4 @@
-# solidity-react-campaign
+# solidity-react-truffle-campaign
 
 Project build off Stephen Griders Udemy course: Ethereum and Solidity: The Complete Developer's Guide
 
