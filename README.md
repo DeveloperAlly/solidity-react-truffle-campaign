@@ -4,8 +4,9 @@ Project build off Stephen Griders Udemy course: Ethereum and Solidity: The Compl
 
 ## **Framework**
 
-Contracts: Truffle, Solidity, Infura, Metamask. 
-Front-end: React, Next (routing), Semantic (UI styling), web3, ganache-cli. 
+**Contracts**: Truffle, Solidity, Infura, Metamask. 
+
+**Front-end**: React, Next (routing), Semantic (UI styling), web3, ganache-cli. 
 
 I use VS-CODE IDE on macOS (ahh the irony :P). 
 
